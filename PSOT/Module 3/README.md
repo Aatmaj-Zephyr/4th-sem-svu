@@ -8,3 +8,4 @@ Sampling Theory
 - Student’s t-distribution: Test for significance of the difference between sample mean and population means, Test for significance of the difference between the means of two Samples, paired t-test.
 - Chi-square distribution as a Test of Independence, Test of the Goodness of fit and Yate’s correction.
 - Fisher’s z-test
+<img width="511" alt="image" src="https://user-images.githubusercontent.com/83284294/230707424-251d0c45-3003-46e7-b606-98e58c635e56.png">
